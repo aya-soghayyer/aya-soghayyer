@@ -12,7 +12,7 @@
 
 👋 Hi, I’m aya soghayyer
 - 👀 I’m interested in Full-stack Development, AI(data science)
-- 🌱 I’m currently learning Backend with GSG
+- 🌱 I’ve finished learning Backend with GSG
 - 📫 How to reach me:
   * LinkedIn: [LinkedIn](https://www.linkedin.com/in/aya-s-884934246/)
   * Email: soghayyeraya@gmail.com
